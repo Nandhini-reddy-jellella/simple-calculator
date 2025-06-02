@@ -43,7 +43,5 @@ public class SimpleCalculator {
         if (valid) {
             System.out.println("Result: " + result);
         }
-
-        scanner.close();
     }
 }
